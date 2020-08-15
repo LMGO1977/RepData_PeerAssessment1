@@ -2,7 +2,8 @@
 title: "Reproducible_Research_Course_Project_1"
 author: "Luis OLiveira"
 date: "15/08/2020"
-output: word_document
+output: html_document
+
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = FALSE)
